@@ -27,7 +27,7 @@ FIZZBUZZ is a very common coding interview problem. Below are the instructions t
 2. Write a `if/else` selection statement inside the body of the the loop that checks the following:
    - If the number is divisible by 3, then console.log `'FIZZ'`
    - If the number is divisible by 5, then console.log `'BUZZ'`
-   - If the number is divisible by both 3 and 5, then console.log `'FIZZBUZZ'`
+   - If the number is divisible by both 3 and 5, then console.log `'`FIZZBUZZ'
 
 Ex: `15` would print `'FIZZBUZZ'`, `33` would print `'FIZZ'`, and `35` would print `'BUZZ'`
 
